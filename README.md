@@ -1,2 +1,4 @@
-# hello-world
-copyright is very simple way to make programme free software is put it in public domain.
+# hello-world# hello-world
+FOSS does not provide any direct income.
+
+
